@@ -1,0 +1,68 @@
+'Age' - wiek, 
+'Attrition' - chce odejść: Yes/No, 
+'BusinessTravel - Podróże słuzbowe' ['Travel_Rarely', 'Travel_Frequently', 'Non-Travel'] 
+'DailyRate - Dzienna stawka', 
+'Department' - Dział, 
+'DistanceFromHome' - odległość od domu oceniana od 1 do 29, 
+'Education' - Oceniania od 1 do 5:
+1 'Below College'
+2 'College'
+3 'Bachelor'
+4 'Master'
+5 'Doctor' 
+'EducationField' - dziedzina edukacji
+'EmployeeCount' - Liczba pracowników = zawsze równa 1
+'EmployeeNumber' - Numer pracownika - wartości od 1 do 2068, czyli są nie po kolei, ale są unikalne - ID pracownika; łącznie 1470 pracowników
+'EnvironmentSatisfaction' - Zadowolenie:
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+Gender - płeć: 'Female', 'Male'
+'Hourly Rate' - godzinowa stawka
+'JobInvolvement' - zaangażowanie:
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+'JobLevel' - poziom od 1 do 5
+'Job Role' - Stanowisko:
+['Sales Executive', 'Research Scientist', 'Laboratory Technician', 'Manufacturing Director', 'Healthcare Representative', 'Manager', 'Sales Representative', 'Research Director', 'Human Resources']
+'JobSatisfaction' - Satysfakcja z pracy
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+'Marital Status' - stan cywilny: ['Single', 'Married', 'Divorced']
+'MonthlyIncome' - miesięczny przychód
+'MonthlyRate' - miesięczna opłata
+'NumCompaniesWorked' - liczba firm w których pracował - od 0 do 9
+'Over18' - ponad 18 lat? Wszędzie Y - yes
+'OverTime' - nadgodziny: Y, N
+'PercentSalaryHike' - procentowy wzrost wynagrodznia wartości od 11 do 25%
+'PerformanceRating' - ocena wydajności:
+1 'Low'
+2 'Good'
+3 'Excellent'
+4 'Outstanding'
+'RelationshipSatisfaction' - zadowolenie ze związku/relacji:
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+'StandardHours' - standardowe godziny - dla wszystkich = 80
+'StockOptionLevel' - poziom opcji na akcje(?): wartości od 0 do 3
+'TotalWorkingYears' - łączna liczba lat pracy: od 0 do 40
+'TrainingTimesLastYear' - czas szkolenia w zeszłym roku od 0 do 6
+'WorkLifeBalance' - równowaga między życiem zawodowym a prywatnym:
+1 'Bad'
+2 'Good'
+3 'Better'
+4 'Best'
+'YearsAtCompany' - lata pracy w firmie
+'YearsInCurrentRole' - lata pracy na obecnym stanowisku
+'YearsSinceLastPromotion' - liczba lat od ostatniego awansu
+'YearsWithCurrManager' - lata pracy z obecnym menedżerem
+
+
+
